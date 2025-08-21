@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vivek Sharma  
+## 👋 Hi, I’m Vivek Sharma  
 
 🎓 3rd Year @ Maharaja Surajmal Institute of Technology (IT) <br>  
 💻 Full-Stack Developer | Problem Solver <br>  
